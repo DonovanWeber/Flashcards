@@ -1,0 +1,49 @@
+.hide_js { 
+  display: none;
+}
+
+.hide_operator { 
+  display: none;
+}
+
+.hide_variables { 
+  display: none;
+}
+
+.hide_vnc { 
+  display: none;
+}
+
+.hide_fun { 
+  display: none;
+}
+
+.hide_methods { 
+  display: none;
+}
+
+.btn-show {
+  color: rgb(14, 13, 13);
+  background-color: #ffffff;
+  border-color: #101111;
+}
+
+.btn_hide {
+
+    color: rgb(14, 13, 13);
+    background-color: #ffffff;
+    border-color: #101111;
+}
+
+/* #cardHidden { 
+  display: all;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #054261;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+} */
